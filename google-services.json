@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "124386199862",
+    "firebase_url": "https://sls-lux-concierge.firebaseio.com",
+    "project_id": "sls-lux-concierge",
+    "storage_bucket": "sls-lux-concierge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124386199862:android:9e5588be47e39339",
+        "android_client_info": {
+          "package_name": "com.slsluxbrickell.concierge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124386199862-rtgka14s2co3us9be3fs84abvobudqk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3CA8HEVbbgnucXA3q95FelHxLfO4EWF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
